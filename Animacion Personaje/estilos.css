@@ -1,0 +1,8 @@
+#lienzo{
+	border: 1px #000;
+	background-color: #aaafff;
+}
+
+#fondo,#portal,#a1,#a2,#a3,#a4,#a5,#a6,#a7,#a8,#a9,#a10,#u1,#u2,#u3,#u4,#u5,#u6,#u7,#u8,#u9,#u10,#d1,#d2,#d3,#d4,#d5,#d6,#d7,#d8,#d9,#d10,#i1,#i2,#i3,#i4,#i5,#i6,#i7,#i8,#i9,#i10,#p1,#p2,#p3,#p4,#p5,#p6,#p7,#p8,#p9,#p10,#p11,#p12,#p13,#p14,#p15{
+	display: none;
+}
